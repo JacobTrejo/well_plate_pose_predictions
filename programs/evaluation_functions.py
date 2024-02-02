@@ -4,8 +4,8 @@ import math
 import csv
 import cv2
 import pdb
-from programs.construct_model import f_x_to_model_evaluation
-
+#from programs.construct_model import f_x_to_model_evaluation
+from programs.construct_model_instrinsic_parameters import f_x_to_model_evaluation
 #########################################################################################################################
 # Interparc
 # Credit: Robert Yi (https://github.com/rsyi)
